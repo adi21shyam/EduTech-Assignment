@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "name": "Web Development Bootcamp",
+      "about": "Comprehensive course covering HTML, CSS, JavaScript, and more.",
+      "price": 99.99,
+      "discount": 20,
+      "tutor": "John Doe",
+      "duration": "10 weeks",
+      "rating": 4.5,
+      "reviews": 120
+    },
+    {
+      "id": 2,
+      "name": "Python Programming Masterclass",
+      "about": "Learn Python from scratch to advanced concepts with real-world projects.",
+      "price": 129.99,
+      "discount": 10,
+      "tutor": "Jane Smith",
+      "duration": "8 weeks",
+      "rating": 4.7,
+      "reviews": 90
+    },
+    {
+      "id": 3,
+      "name": "Data Science Fundamentals",
+      "about": "Introduction to data science, including statistics, data wrangling, and visualization.",
+      "price": 149.99,
+      "discount": 15,
+      "tutor": "David Johnson",
+      "duration": "12 weeks",
+      "rating": 4.6,
+      "reviews": 110
+    },
+    {
+      "id": 4,
+      "name": "Mobile App Development Course",
+      "about": "Build cross-platform mobile apps using React Native and other modern tools.",
+      "price": 119.99,
+      "discount": 20,
+      "tutor": "Emily Brown",
+      "duration": "10 weeks",
+      "rating": 4.4,
+      "reviews": 100
+    },
+    {
+      "id": 5,
+      "name": "Java Programming Basics",
+      "about": "Learn the fundamentals of Java programming language with hands-on exercises.",
+      "price": 109.99,
+      "discount": 10,
+      "tutor": "Chris Wilson",
+      "duration": "8 weeks",
+      "rating": 4.8,
+      "reviews": 130
+    },
+    {
+      "id": 6,
+      "name": "Machine Learning Fundamentals",
+      "about": "Introduction to machine learning algorithms and techniques.",
+      "price": 149.99,
+      "discount": 25,
+      "tutor": "Michael Johnson",
+      "duration": "12 weeks",
+      "rating": 4.3,
+      "reviews": 80
+    },
+    {
+      "id": 7,
+      "name": "Full Stack Web Development Course",
+      "about": "Become a full stack web developer by learning both front-end and back-end technologies.",
+      "price": 179.99,
+      "discount": 30,
+      "tutor": "Sarah Thompson",
+      "duration": "14 weeks",
+      "rating": 4.6,
+      "reviews": 150
+    },
+    {
+      "id": 8,
+      "name": "JavaScript Masterclass",
+      "about": "Master JavaScript programming language with advanced concepts and projects.",
+      "price": 139.99,
+      "discount": 20,
+      "tutor": "Mark Davis",
+      "duration": "10 weeks",
+      "rating": 4.7,
+      "reviews": 120
+    },
+    {
+      "id": 9,
+      "name": "Artificial Intelligence Essentials",
+      "about": "Learn the essentials of artificial intelligence and its applications.",
+      "price": 159.99,
+      "discount": 15,
+      "tutor": "Laura Garcia",
+      "duration": "12 weeks",
+      "rating": 4.5,
+      "reviews": 100
+    },
+    {
+      "id": 10,
+      "name": "React.js Crash Course",
+      "about": "Quick crash course to learn React.js library for building user interfaces.",
+      "price": 79.99,
+      "discount": 10,
+      "tutor": "Kevin Lee",
+      "duration": "6 weeks",
+      "rating": 4.6,
+      "reviews": 90
+    },
+    {
+      "id": 11,
+      "name": "Cybersecurity Fundamentals",
+      "about": "Introduction to cybersecurity principles and practices.",
+      "price": 129.99,
+      "discount": 20,
+      "tutor": "Jessica Robinson",
+      "duration": "8 weeks",
+      "rating": 4.4,
+      "reviews": 80
+    },
+    {
+      "id": 12,
+      "name": "Cloud Computing Basics",
+      "about": "Overview of cloud computing technologies and platforms.",
+      "price": 109.99,
+      "discount": 15,
+      "tutor": "Daniel Martinez",
+      "duration": "6 weeks",
+      "rating": 4.7,
+      "reviews": 110
+    },
+    {
+      "id": 13,
+      "name": "UI/UX Design Fundamentals",
+      "about": "Learn the basics of user interface and user experience design.",
+      "price": 99.99,
+      "discount": 10,
+      "tutor": "Sophia Adams",
+      "duration": "8 weeks",
+      "rating": 4.6,
+      "reviews": 95
+    },
+    {
+      "id": 14,
+      "name": "Game Development with Unity",
+      "about": "Create games using Unity game engine with C# programming language.",
+      "price": 159.99,
+      "discount": 25,
+      "tutor": "Adam Scott",
+      "duration": "10 weeks",
+      "rating": 4.4,
+      "reviews": 85
+    },
+    {
+      "id": 15,
+      "name": "Ethical Hacking Masterclass",
+      "about": "Become an ethical hacker by learning various hacking techniques and tools.",
+      "price": 179.99,
+      "discount": 30,
+      "tutor": "Ryan Johnson",
+      "duration": "12 weeks",
+      "rating": 4.8,
+      "reviews": 120
+    }
+  ]
+  
