@@ -86,28 +86,6 @@
       "duration": "10 weeks",
       "rating": 4.7,
       "reviews": 120
-    },
-    {
-      "id": 9,
-      "name": "Artificial Intelligence Essentials",
-      "about": "Learn the essentials of artificial intelligence and its applications.",
-      "price": 159.99,
-      "discount": 15,
-      "tutor": "Laura Garcia",
-      "duration": "12 weeks",
-      "rating": 4.5,
-      "reviews": 100
-    },
-    {
-      "id": 10,
-      "name": "React.js Crash Course",
-      "about": "Quick crash course to learn React.js library for building user interfaces.",
-      "price": 79.99,
-      "discount": 10,
-      "tutor": "Kevin Lee",
-      "duration": "6 weeks",
-      "rating": 4.6,
-      "reviews": 90
     }
   ]
   

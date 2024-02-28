@@ -1,4 +1,5 @@
 import React from 'react';
+import Logo from "../assets/Logo.webp"
 
 const AboutPage = () => {
   return (
@@ -7,7 +8,7 @@ const AboutPage = () => {
       
       <div className="flex flex-col md:flex-row justify-center items-center">
         <div className="md:w-1/2 px-4">
-          <img src="/about-image.jpg" alt="About Us" className="rounded-lg shadow-lg mb-4"/>
+          <img src={Logo} alt="About Us" className="rounded-lg shadow-lg mb-4"/>
         </div>
         
         <div className="md:w-1/2 px-4">

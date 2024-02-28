@@ -55,7 +55,7 @@ const AllCourses = ({ addToCart }) => {
       <div className='flex align-middle justify-center items-center'>
       {isLoading ? (
         <p className="text-gray-700 text-center col-span-3">Loading...</p>
-      ) : courses.length<(visibleCourses+1) && courses.length<10  && (
+      ) : courses.length<(visibleCourses+1) && courses.length<8  && (
         <button
           onClick={loadMoreCourses}
           className="bg-gray-800 hover:bg-gray-900 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline mt-2 mx-auto"
