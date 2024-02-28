@@ -25,9 +25,9 @@ const Dashboard = () => {
   }
 
   return (
-    <div className="flex">
+    <div className="flex flex-col md:flex-row h-screen">
       <Sidebar onComponentChange={handleComponentChange} />
-      <div className="flex-grow p-8">
+      <div className="flex-grow p-4 md:p-8">
         {activeComponent === 'allCourses' && <AllCourses addToCart={addToCart} />}
         {activeComponent === 'myCourses' && <MyCourses cart={cart} removeFromCart={removeFromCart}/>}
         {activeComponent === 'greeting' && <Greeting />}

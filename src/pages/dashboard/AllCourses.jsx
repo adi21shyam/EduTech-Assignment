@@ -21,7 +21,7 @@ const AllCourses = ({ addToCart }) => {
   };
 
   return (
-    <div className='h-full w-4/5 right-0 overflow-auto fixed'>
+    <div className='h-full w-4/5 right-0 overflow-y-auto absolute'>
     <div className="grid grid-cols-1 m-2 md:grid-cols-2 lg:grid-cols-3 gap-8">
     
       {courses.map(course => (
@@ -52,10 +52,10 @@ const AllCourses = ({ addToCart }) => {
 </div>
 
       ))}
-      <div>
+      <div className='flex align-middle justify-center items-center'>
       {isLoading ? (
         <p className="text-gray-700 text-center col-span-3">Loading...</p>
-      ) : (
+      ) : courses.length<(visibleCourses+1) && courses.length<10  && (
         <button
           onClick={loadMoreCourses}
           className="bg-gray-800 hover:bg-gray-900 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline mt-2 mx-auto"

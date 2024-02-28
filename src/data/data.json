@@ -108,61 +108,6 @@
       "duration": "6 weeks",
       "rating": 4.6,
       "reviews": 90
-    },
-    {
-      "id": 11,
-      "name": "Cybersecurity Fundamentals",
-      "about": "Introduction to cybersecurity principles and practices.",
-      "price": 129.99,
-      "discount": 20,
-      "tutor": "Jessica Robinson",
-      "duration": "8 weeks",
-      "rating": 4.4,
-      "reviews": 80
-    },
-    {
-      "id": 12,
-      "name": "Cloud Computing Basics",
-      "about": "Overview of cloud computing technologies and platforms.",
-      "price": 109.99,
-      "discount": 15,
-      "tutor": "Daniel Martinez",
-      "duration": "6 weeks",
-      "rating": 4.7,
-      "reviews": 110
-    },
-    {
-      "id": 13,
-      "name": "UI/UX Design Fundamentals",
-      "about": "Learn the basics of user interface and user experience design.",
-      "price": 99.99,
-      "discount": 10,
-      "tutor": "Sophia Adams",
-      "duration": "8 weeks",
-      "rating": 4.6,
-      "reviews": 95
-    },
-    {
-      "id": 14,
-      "name": "Game Development with Unity",
-      "about": "Create games using Unity game engine with C# programming language.",
-      "price": 159.99,
-      "discount": 25,
-      "tutor": "Adam Scott",
-      "duration": "10 weeks",
-      "rating": 4.4,
-      "reviews": 85
-    },
-    {
-      "id": 15,
-      "name": "Ethical Hacking Masterclass",
-      "about": "Become an ethical hacker by learning various hacking techniques and tools.",
-      "price": 179.99,
-      "discount": 30,
-      "tutor": "Ryan Johnson",
-      "duration": "12 weeks",
-      "rating": 4.8,
-      "reviews": 120
     }
   ]
   
